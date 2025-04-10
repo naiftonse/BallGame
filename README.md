@@ -1,3 +1,6 @@
+MAHAMMAD NAIF TONSE 
+STUDENT ID: 35473548
+
 This project is a simple ball game meant to simulate the real-life game of ping-pong.
 Features smooth animations, an Ai opponent, collision detection, and a spacebar restart system.
 The website has a minimalist design with a black canvas, white paddles, and smooth animations, and a white ball.
